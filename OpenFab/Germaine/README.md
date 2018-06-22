@@ -1,5 +1,21 @@
 # Germaine 2.0 - Système multi-user et horizontal de secrétariat
 
+## Table de contenu
+
+1. [Intro](/readme.md)
+  - Contexte
+  - Objectif
+  - Proposition
+  - Issues liées
+  - Ressources
+  - Comment collaborer
+1. Cartographier les demandes et construire un workflow avec ressources nécessaires pour y répondre.
+1. Créer une permanence de réponse aux boites de réception
+1. Créer un code commun / uniformisation des tags et labels
+1. Créer des réponses déjà faite / FAQ
+1. Team
+1. Workflow
+1. Nomenclature
 
 ## Contexte
 
@@ -22,16 +38,18 @@ Créer une permanence de réponse aux emails.[link](https://github.com/zuperninj
 Créer un code commun / uniformisation des tags et labels.[link](https://github.com/zuperninja/blog/issues/16#issuecomment-383043871)
 Créer des réponses déjà faite / FAQ.[link](https://github.com/zuperninja/blog/issues/16#issuecomment-383044098)
 
-## Next step
+## Comment collaborer ?
 
-- [x] Créer un repo pour pouvoir collaborer
-- [x] Répertorier ce que l'on a
-- [x] Identifier les bugs et comportements de ceux qui font déjà le secrétariat
-- [ ] Mettre au propre
+1. Créez un **branch** avec le nom du fichier sur lequel vous voulez collaborer.
+1. Quand vous avez finit d'apporter votre contribution > **Pull Request**
+1. Faire un **merge** après fin de discussion et si pas de conflit (seulement par le product owner // ou par 4 contributeurs ?)
+1. **Delete branch**
+
+
 
 ## Issues liées
 
-[tag et label #202](https://github.com/openfab-lab/openfab/issues/202)
+[Tag et label #202](https://github.com/openfab-lab/openfab/issues/202)
 
 [Organisation OpenFab : team & task force #195](https://github.com/openfab-lab/openfab/issues/195)
 
@@ -41,7 +59,7 @@ Créer des réponses déjà faite / FAQ.[link](https://github.com/zuperninja/blo
 
 [Faq #17](https://github.com/openfab-lab/openfab/issues/17)
 
-[label - modif de nom #127](https://github.com/openfab-lab/openfab/issues/127)
+[Label - modif de nom #127](https://github.com/openfab-lab/openfab/issues/127)
 
 ## Ressources
 
