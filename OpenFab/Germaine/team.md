@@ -18,7 +18,7 @@ Création de "TEAM" et de "task force".
 Un projet, une demande arrive à OpenFab. La team gestion la renvois et la renvoie à la team correspondante.
 La team correspondante accepte l’offre ou non et créé une task force pour réaliser le projet.
 
-[!image](https://user-images.githubusercontent.com/25649502/36261784-cafc86f0-1265-11e8-9245-16f48286b926.png)
+![dedbi](https://user-images.githubusercontent.com/25649502/36261784-cafc86f0-1265-11e8-9245-16f48286b926.png)
 
 ##### TEAM :
 
