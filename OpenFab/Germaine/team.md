@@ -33,13 +33,15 @@ Objectif : faire le job
 Composition : membres OpenFab
 
 ---
-### Team Gestion
+<details>
+<summary> ### Team Gestion</summary>
 #### Objectif
 Gestionne, trie, renvoie et suit.
 #### Membres
 Anca
 #### Lien
 Vers l'organisation Germaine.
+</details>
 
 ---
 ### Team Appel à Projet :
