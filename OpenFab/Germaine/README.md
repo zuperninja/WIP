@@ -3,19 +3,11 @@
 ## Table de contenu
 
 
-1. <details><summary> Intro : le readme(/OpenFab/Germaine/readme.md)</summary>
-- Contexte
-- Objectif
-- Proposition
-- Issues liées
-- Ressources
-- Comment collaborer
-</details>
-
-2. [FAQ](/OpenFab/Germaine/FAQ.md)
+1. [Intro : le readme](/OpenFab/Germaine/README.md)
+1. [FAQ](/OpenFab/Germaine/faq.md)
 1. [Les différentes Team : rôles, objectifs, membres](/OpenFab/Germaine/team.md)
 1. [Nomenclature, tags et labels : comment bien s'organiser tous ensemble](/OpenFab/Germaine/nomenclature.md)
-1. Workflow
+1. [Workflow](/OpenFab/Germaine/workflow.md)
 
 
 ## Contexte
@@ -23,7 +15,7 @@
 Germaine est l'alias de la secrétaire virtuelle d'OpenFab. Germaine est antipathique et pas très sympa. Elle vérifie que tout se passe bien et rapelle à l'ordre.
 
 
-![image](https://user-images.githubusercontent.com/25099826/39044098-793d6030-448f-11e8-817c-fb00ceb6d59d.png)
+![portrait de Germaine](https://user-images.githubusercontent.com/25099826/39044098-793d6030-448f-11e8-817c-fb00ceb6d59d.png)
 
 
 ## Objectif
