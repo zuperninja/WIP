@@ -1,23 +1,20 @@
 # Germaine 2.0 - Système multi-user et horizontal de secrétariat
 
-<details>
-<summary> Table de contenu </summary>
+## Table de contenu
 
-      1. [Intro](/OpenFab/Germaine/readme.md)
-        - Contexte
-        - Objectif
-        - Proposition
-        - Issues liées
-        - Ressources
-        - Comment collaborer
+1. [Intro](/OpenFab/Germaine/readme.md)
+  - Contexte
+  - Objectif
+  - Proposition
+  - Issues liées
+  - Ressources
+  - Comment collaborer
 
 
-      1. [FAQ](/OpenFab/Germaine/FAQ.md)
-      1. [Team](/OpenFab/Germaine/team.md)
-      1. [Nomenclature, tags et labels](/OpenFab/Germaine/nomenclature.md)
-      1. Workflow
-
-</details>
+1. [FAQ](/OpenFab/Germaine/FAQ.md)
+1. [Team](/OpenFab/Germaine/team.md)
+1. [Nomenclature, tags et labels](/OpenFab/Germaine/nomenclature.md)
+1. Workflow
 
 ## Contexte
 
