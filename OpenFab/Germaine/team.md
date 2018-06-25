@@ -46,7 +46,9 @@ Vers l'organisation Germaine.
 </details>
 
 ---
-### Team Appel à Projet :
+<details>
+<summary>Team Appel à Projet
+</summary>
 
 #### Objectif
 Décider de la pertinence de la demande.
@@ -60,7 +62,9 @@ Dewi, Sarah.
 Vers la team Appel à Projet.
 
 ---
-### Team Buro274 :
+<details>
+<summary>Team Buro274
+</summary>
 
 #### Objectif
 
@@ -78,13 +82,17 @@ Milena, Florent, Dewi, Nico, Navid, Anne-Sophie ont la clé.
 Vers la team Fabmob
 
 ---
-### Team Workshop
+<details>
+<summary>Team workshop
+</summary>
 #### Objectif
 #### Membres
 #### Lien
 
 ---
-### Team Fabmob
+<details>
+<summary>Team FabMob
+</summary>
 
 #### Objectif
 Il y a déjà pas mal de demande, l'équipe doit s'agrandir et se former sur plus de tools.
@@ -96,8 +104,9 @@ Dewi, Milena, Florent et Navid.
 #### Lien
 Vers la team Fabmob
 
----
-### Team Job
+<details>
+<summary>Team Job
+</summary>
 
 #### Membres
 Dewi s'il est dispo, sinon mise en capacité de Navid et Anne-sophie pour des jobs lasers. Si pas prêt, faut se préparer. Si pas dispo, redirection vers le groupe et improvisation. Pour rappel, seul les metaUser peuvent commencer à répondre à des jobs pour un reward a définir (badge, crrr, levelUp ou loot), seul les membres de niveau 4 peuvent être rémunéré en €. (sur base de 34€ htva/h)
