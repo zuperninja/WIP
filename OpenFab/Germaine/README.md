@@ -1,21 +1,23 @@
 # Germaine 2.0 - Système multi-user et horizontal de secrétariat
 
-## Table de contenu
+<details>
+<summary> Table de contenu </summary>
 
-1. [Intro](/readme.md)
-  - Contexte
-  - Objectif
-  - Proposition
-  - Issues liées
-  - Ressources
-  - Comment collaborer
-1. Cartographier les demandes et construire un workflow avec ressources nécessaires pour y répondre.
-1. Créer une permanence de réponse aux boites de réception
-1. Créer un code commun / uniformisation des tags et labels
-1. [FAQ](/faq.md)
-1. [Team](/team.md)
-1. Workflow
-1. [Nomenclature](/nomenclature.md)
+      1. [Intro](/OpenFab/Germaine/readme.md)
+        - Contexte
+        - Objectif
+        - Proposition
+        - Issues liées
+        - Ressources
+        - Comment collaborer
+
+
+      1. [FAQ](/OpenFab/Germaine/FAQ.md)
+      1. [Team](/OpenFab/Germaine/team.md)
+      1. [Nomenclature, tags et labels](/OpenFab/Germaine/nomenclature.md)
+      1. Workflow
+
+</details>
 
 ## Contexte
 
@@ -27,21 +29,20 @@ Germaine est l'alias de la secrétaire virtuelle d'OpenFab. Germaine est antipat
 
 ## Objectif
 
-Organiser le secrétariat OpenFab pour qu'il soit collaboratif et efficace.
+- Organiser le secrétariat OpenFab pour qu'il soit collaboratif et efficace.
 
-Garder une organisation propre et à jour de tous nous fichiers.
+- Garder une organisation propre et à jour de tous nous fichiers.
 
-Répondre aux demandes de manières efficaces et dans un délai inférieur à 24h. Sans que cela repose sur une seule personne.
+- Répondre aux demandes de manières efficaces et dans un délai inférieur à 24h. Sans que cela repose sur une seule personne.
 
-Tout les membres peuvent trouver facilement l'information qu'ils recherchent.
+- Tout les membres peuvent trouver facilement l'information qu'ils recherchent.
 
 
 ## Proposition
 
-Cartographier les demandes et construire un workflow avec ressources nécessaires pour y répondre.[link](https://github.com/zuperninja/blog/issues/16#issuecomment-383039283)
-Créer une permanence de réponse aux emails.[link](https://github.com/zuperninja/blog/issues/16#issuecomment-383042417)
-Créer un code commun / uniformisation des tags et labels.[link](https://github.com/zuperninja/blog/issues/16#issuecomment-383043871)
-Créer des réponses déjà faite / FAQ.[link](https://github.com/zuperninja/blog/issues/16#issuecomment-383044098)
+Documents de référence approuvés par la Team Gestion.
+
+Contrôle et apprentissage par la Team Gestion.
 
 ## Comment collaborer ?
 
@@ -65,6 +66,15 @@ Créer des réponses déjà faite / FAQ.[link](https://github.com/zuperninja/blo
 [Faq #17](https://github.com/openfab-lab/openfab/issues/17)
 
 [Label - modif de nom #127](https://github.com/openfab-lab/openfab/issues/127)
+
+[Cartographier les demandes et construire un workflow avec ressources nécessaires pour y répondre.](https://github.com/zuperninja/blog/issues/16#issuecomment-383039283)
+
+[Créer une permanence de réponse aux emails.](https://github.com/zuperninja/blog/issues/16#issuecomment-383042417)
+
+[Créer un code commun / uniformisation des tags et labels.](https://github.com/zuperninja/blog/issues/16#issuecomment-383043871)
+
+[Créer des réponses déjà faite / FAQ.](https://github.com/zuperninja/blog/issues/16#issuecomment-383044098)
+
 
 ## Ressources
 
