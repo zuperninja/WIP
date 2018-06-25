@@ -30,6 +30,7 @@ Composition : 2 à 3 personnes (un référent qui reçoit les demandes et convoq
 ##### TASK FORCE :
 
 Objectif : faire le job
+
 Composition : membres OpenFab
 
 ---
@@ -82,33 +83,19 @@ Répond aux besoins de l'atelier :
 Milena, Florent, Dewi, Nico, Navid, Anne-Sophie ont la clé.
 
 #### Lien
-Vers la team Fabmob
+Vers la team Buro274
 </details>
 
 
 
 <details>
-<summary>Team workshop
+<summary>Team Workshop
 </summary>
 #### Objectif
 #### Membres
 #### Lien
 </details>
 
-
-<details>
-<summary>Team FabMob
-</summary>
-
-#### Objectif
-Il y a déjà pas mal de demande, l'équipe doit s'agrandir et se former sur plus de tools.
-Un catalogue doit être élaboré et les workshop standardisés pour facilement être animé par tout les animateurs compétent.
-
-#### Membres
-Dewi, Milena, Florent et Navid.
-
-#### Lien
-Vers la team Fabmob
 
 <details>
 <summary>Team Job
@@ -124,6 +111,21 @@ Pour la cnc, on en a pas. C'est retiré du site. Zip it, c'est pas pour les noob
 
 #### Lien
 Vers la team Job
+</details>
+
+<details>
+<summary>Task Force FabMob
+</summary>
+
+#### Objectif
+Il y a déjà pas mal de demande, l'équipe doit s'agrandir et se former sur plus de tools.
+Un catalogue doit être élaboré et les workshop standardisés pour facilement être animé par tout les animateurs compétent.
+
+#### Membres
+Dewi, Milena, Florent et Navid.
+
+#### Lien
+Vers la team Fabmob
 </details>
 
 ---

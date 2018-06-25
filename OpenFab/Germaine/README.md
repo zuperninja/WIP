@@ -2,19 +2,21 @@
 
 ## Table de contenu
 
-1. [Intro](/OpenFab/Germaine/readme.md)
-  - Contexte
-  - Objectif
-  - Proposition
-  - Issues liées
-  - Ressources
-  - Comment collaborer
+1. <details>
+<summary>[Intro : le readme](/OpenFab/Germaine/readme.md)</summary>
 
-
+      - Contexte
+      - Objectif
+      - Proposition
+      - Issues liées
+      - Ressources
+      - Comment collaborer
+</details>
 1. [FAQ](/OpenFab/Germaine/FAQ.md)
-1. [Team](/OpenFab/Germaine/team.md)
-1. [Nomenclature, tags et labels](/OpenFab/Germaine/nomenclature.md)
+1. [Les différentes Team : rôles, objectifs, membres](/OpenFab/Germaine/team.md)
+1. [Nomenclature, tags et labels : comment bien s'organiser tous ensemble](/OpenFab/Germaine/nomenclature.md)
 1. Workflow
+
 
 ## Contexte
 
@@ -28,7 +30,7 @@ Germaine est l'alias de la secrétaire virtuelle d'OpenFab. Germaine est antipat
 
 - Organiser le secrétariat OpenFab pour qu'il soit collaboratif et efficace.
 
-- Garder une organisation propre et à jour de tous nous fichiers.
+- Garder une organisation propre et à jour de tous nous fichiers. (Cf : [Nomenclature, tags et labels](/OpenFab/Germaine/nomenclature.md))
 
 - Répondre aux demandes de manières efficaces et dans un délai inférieur à 24h. Sans que cela repose sur une seule personne.
 
@@ -40,6 +42,7 @@ Germaine est l'alias de la secrétaire virtuelle d'OpenFab. Germaine est antipat
 Documents de référence approuvés par la Team Gestion.
 
 Contrôle et apprentissage par la Team Gestion.
+
 
 ## Comment collaborer ?
 

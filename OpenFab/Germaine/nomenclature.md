@@ -18,24 +18,34 @@ Garder une homogénisation.
 
 L'organisation des dossiers doit être en concordance avec les teams, chaque teams organisent comme il veut son dossier en respectant la nomenclature.
 
-Quand créer un dossier ?
+**Quand créer un dossier ?**
 
 Ne pas créer de dossier en avance. D'abord faire le contenu. Quand le contenu dépasse 7 items, créer un dossier.
 
-Comment nommer un dossier ?
+**Comment nommer un dossier ?**
 
-Comment le structurer ?
+**Comment le structurer ?**
 
-Chaque dossier doit contenir un fichier README.md qui explique ce à quoi sert le dossier. Avec une table de contenu qui lie les différents fichiers dedans c'est mieux.
+Chaque dossier doit contenir un fichier `README.md` qui explique ce à quoi sert le dossier. Avec une table de contenu qui lie les différents fichiers dedans c'est mieux. Si besoin rajouter un dossier `image` ou `ressources`.
 
 
 ### Les fichiers :
 
-Quand créer un fichier ?
+**Quand créer un fichier ?**
 
-Comment nommer un fichier ?
+**Comment nommer un fichier ?**
 
-Comment le structurer ?
+**Comment le structurer ?**
+
+```
+# Titre du fichier plus détaillé
+## Table de contenu
+## Contexte
+## Objectif
+## Proposition
+```
+
+## Table de contenu
 
 | TYPE           | A FAIRE        | NOP                |
 | :------------- | :------------- | :----------------- |
@@ -46,16 +56,16 @@ Comment le structurer ?
 
 ### Les issues :
 
-Quand créer une issue ?
+**Quand créer une issue ?**
 
-Comment nommer une issue ?
+**Comment nommer une issue ?**
 
-Comment la structurer ?
+**Comment la structurer ?**
 
 
 ### Les emails reçus via contact :
 
-#### Tags de suivie
+#### Tags de suivi
 
 
 BUT 1 : Montrer que le mail à été traité par un humain. Un mail lu doit **obligatoirement** avoir un tags de suivie attaché.
