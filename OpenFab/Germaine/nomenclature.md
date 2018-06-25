@@ -20,6 +20,8 @@ Nomination des noms :
 | Devis/Facture  |                |                    |
 |                |                |                    |
 
+Organisation des dossiers doit être en concordance avec les teams, chaque teams organisent comme il veut son dossier en respectant la nomenclature. (A continuer)
+
 
 ## Comment collaborer ?
 
