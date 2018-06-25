@@ -2,17 +2,17 @@
 
 ## Table de contenu
 
-1. <details>
-<summary>[Intro : le readme](/OpenFab/Germaine/readme.md)</summary>
 
-      - Contexte
-      - Objectif
-      - Proposition
-      - Issues liées
-      - Ressources
-      - Comment collaborer
+1. <details><summary> Intro : le readme(/OpenFab/Germaine/readme.md)</summary>
+- Contexte
+- Objectif
+- Proposition
+- Issues liées
+- Ressources
+- Comment collaborer
 </details>
-1. [FAQ](/OpenFab/Germaine/FAQ.md)
+
+2. [FAQ](/OpenFab/Germaine/FAQ.md)
 1. [Les différentes Team : rôles, objectifs, membres](/OpenFab/Germaine/team.md)
 1. [Nomenclature, tags et labels : comment bien s'organiser tous ensemble](/OpenFab/Germaine/nomenclature.md)
 1. Workflow
