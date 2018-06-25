@@ -60,7 +60,7 @@ Dewi, Sarah.
 
 #### Lien
 Vers la team Appel à Projet.
-
+</details>
 ---
 <details>
 <summary>Team Buro274
@@ -80,7 +80,7 @@ Milena, Florent, Dewi, Nico, Navid, Anne-Sophie ont la clé.
 
 #### Lien
 Vers la team Fabmob
-
+</details>
 ---
 <details>
 <summary>Team workshop
@@ -88,7 +88,7 @@ Vers la team Fabmob
 #### Objectif
 #### Membres
 #### Lien
-
+</details>
 ---
 <details>
 <summary>Team FabMob
@@ -118,7 +118,7 @@ Pour la cnc, on en a pas. C'est retiré du site. Zip it, c'est pas pour les noob
 
 #### Lien
 Vers la team Job
-
+</details>
 
 ---
 ## Comment collaborer ?
