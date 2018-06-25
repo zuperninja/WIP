@@ -9,14 +9,15 @@ Garder une homogénisation.
 
 ## Proposition
 
+Nomination des noms :
 
 | TYPE           | A FAIRE        | NOP                |
 | :------------- | :------------- | :----------------- |
 | fichier        | minuscule      | caractère spéciaux |
 |                | concis         | ponctuation        |
 |                | mot actif      |                    |
-|                |                |                    |
-|                |                |                    |
+|   Issue        |                |                    |
+| Devis/Facture  |                |                    |
 |                |                |                    |
 
 
