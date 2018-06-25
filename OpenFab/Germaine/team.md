@@ -34,7 +34,9 @@ Composition : membres OpenFab
 
 ---
 <details>
-<summary> ### Team Gestion</summary>
+<summary> 
+### Team Gestion
+  </summary>
 #### Objectif
 Gestionne, trie, renvoie et suit.
 #### Membres
