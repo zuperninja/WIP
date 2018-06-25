@@ -45,7 +45,8 @@ Anca
 Vers l'organisation Germaine.
 </details>
 
----
+
+
 <details>
 <summary>Team Appel à Projet
 </summary>
@@ -61,7 +62,9 @@ Dewi, Sarah.
 #### Lien
 Vers la team Appel à Projet.
 </details>
----
+
+
+
 <details>
 <summary>Team Buro274
 </summary>
@@ -81,7 +84,9 @@ Milena, Florent, Dewi, Nico, Navid, Anne-Sophie ont la clé.
 #### Lien
 Vers la team Fabmob
 </details>
----
+
+
+
 <details>
 <summary>Team workshop
 </summary>
@@ -89,7 +94,8 @@ Vers la team Fabmob
 #### Membres
 #### Lien
 </details>
----
+
+
 <details>
 <summary>Team FabMob
 </summary>

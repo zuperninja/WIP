@@ -12,23 +12,28 @@
 1. Cartographier les demandes et construire un workflow avec ressources nécessaires pour y répondre.
 1. Créer une permanence de réponse aux boites de réception
 1. Créer un code commun / uniformisation des tags et labels
-1. Créer des réponses déjà faite / FAQ
-1. Team
+1. [FAQ](/faq.md)
+1. [Team](/team.md)
 1. Workflow
-1. Nomenclature
+1. [Nomenclature](/nomenclature.md)
 
 ## Contexte
 
-OpenFab reçoit beaucoup de messages sur plusieurs plateformes.
+Germaine est l'alias de la secrétaire virtuelle d'OpenFab. Germaine est antipathique et pas très sympa. Elle vérifie que tout se passe bien et rapelle à l'ordre.
 
-On avait créer un alias avec @nicolasdb pour le job de secrétariat et de factures (car on aimait pas demander de l'argent aux gens. C'est pas nous qui somme fâchés, c'est Germaine.
 
 ![image](https://user-images.githubusercontent.com/25099826/39044098-793d6030-448f-11e8-817c-fb00ceb6d59d.png)
 
 
 ## Objectif
 
-Comment répondre à ces messages de manières efficaces et dans un délai inférieur à 24h. Sans que cela repose sur une seule personne.
+Organiser le secrétariat OpenFab pour qu'il soit collaboratif et efficace.
+
+Garder une organisation propre et à jour de tous nous fichiers.
+
+Répondre aux demandes de manières efficaces et dans un délai inférieur à 24h. Sans que cela repose sur une seule personne.
+
+Tout les membres peuvent trouver facilement l'information qu'ils recherchent.
 
 
 ## Proposition
