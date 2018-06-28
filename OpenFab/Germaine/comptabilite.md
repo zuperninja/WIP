@@ -7,6 +7,7 @@ Pour facturer à un client merci de suivre les étapes dans OUT.
 - [ ] Numérotation (voir Comment numéroter les factures ?)
 - [ ] Ajout du PDF sur le NAS dans le dossier `compta>facture out 2018`.
 - [ ] Envoie avec l'adresse mail `facturation@openfab.be`.
+- [ ] Surveiller la chronologie des dates :warning:
 
 
 
@@ -30,7 +31,7 @@ A la droite de la facture se trouve les remarques et en orange les étapes à su
  - si particulier choisir `Vente à particulier` et remplir les champs des lignes 11 à 16 des colonnes E:G.
  - :warning: TVA correspond au numéro de TVA du client. Si particulier mettre `NA`.
 1. Référence = nom de la personne de référence ou nom du job ou projet.
-1. 
+1.
 
 
 
