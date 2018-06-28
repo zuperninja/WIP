@@ -24,9 +24,11 @@ Germaine est l'alias de la secrétaire virtuelle d'OpenFab. Germaine est antipat
 
 - Garder une organisation propre et à jour de tous nous fichiers. (Cf : [Nomenclature, tags et labels](/OpenFab/Germaine/nomenclature.md))
 
-- Répondre aux demandes de manières efficaces et dans un délai inférieur à 24h. Sans que cela repose sur une seule personne.
+- Répondre aux demandes de manières efficaces et dans un délai inférieur à 24h. Sans que cela repose sur une seule personne. (Cf : [Les différentes Team : rôles, objectifs, membres](/OpenFab/Germaine/team.md) et [Workflow](/OpenFab/Germaine/workflow.md))
 
 - Tout les membres peuvent trouver facilement l'information qu'ils recherchent.
+
+- Créer un système comptable coopératif et automatique (remplissage facture, frais de note)
 
 
 ## Proposition
