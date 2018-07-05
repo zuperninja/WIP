@@ -13,7 +13,7 @@ Les teams Github correspondent à nos teams et taskforce. Elles sont organisées
 ## Les Teams GitHub
 
 Chaque Team sur GitHub ont
-- des Membres
+- des membres
 - la possibilité d'avoir des sous-teams = les Task Force
 
 
@@ -23,3 +23,14 @@ Chaque Team sur GitHub ont
 | :------------- | :------------------------------ |
 | Assign to      | Prendre la responsabilité       |
 | Team           | Team ou Task Force              |
+
+
+Slack : conversation
+
+Repo : projet
+
+Issue : question sur un projet
+
+Groupe openfab facebook : savoir qui est là, créer du lien
+
+Une issue closed DOIT avoir une documentation en .md
