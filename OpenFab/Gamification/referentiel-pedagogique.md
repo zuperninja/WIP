@@ -27,9 +27,7 @@ Ce système peut seulement fonctionner si il est respecter par tous et suffisame
 - faire // make : fabriquer, et le documenter sur son espace perso ou autre plateforme.
 - partager // share : en face à face, la documentation viens de celui qui a appris.
 
-
-
-### Template pour la validation
+### Processus de validation
 
 Pour valider : 
 
@@ -40,3 +38,10 @@ Pour valider :
 2. Se faire vérifier par un pair
 - En fournissant les documentations avec leurs liens. 
 
+### Comment documenter
+
+Template minimum requis :
+
+- Contexte // Context
+- Objectif // Object
+- Proposition // Process
