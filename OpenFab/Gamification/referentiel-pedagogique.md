@@ -12,11 +12,15 @@ Le but du référentiel est de :
 - Faire avancer le commun via la documentation.
 - Faciliter l'exploration
 
-## Standardisation
+## Proposition
+
+Validation des compétences.
+
+### Standardisation
 
 Ce système peut seulement fonctionner si il est respecter par tous et suffisament souple.
 
-## Fonctionnement
+### Fonctionnement
 
 3 actions pour valider la compétence :
 - apprendre // learn : en face à face ou via les ressources, à documenter sur son espace perso ou autre plateforme.
