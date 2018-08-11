@@ -1,4 +1,4 @@
-# Le référentiel pédagogique pour Gamification
+# Le référentiel pédagogique et validation pour Gamification
 
 ## Contexte
 
@@ -35,7 +35,7 @@ Pour valider :
 - APPRENDRE et FAIRE : documentation en accès publique de la part du demandeur de la validation
 - PARTAGER : documentation en accès publique venant de celui qui à reçu le partage du demandeur de la validation.
 
-2. Se faire vérifier par un pair
+1. Se faire vérifier par un pair
 - En fournissant les documentations avec leurs liens. 
 
 ### Comment documenter
@@ -45,3 +45,19 @@ Template minimum requis :
 - Contexte // Context
 - Objectif // Object
 - Proposition // Process
+
+### Les compétences
+
+Les 8 de bases, les grands domaines dans le quel après on peut se spécialiser. Voir avec fonctionnement des niveaux
+
+1. 3dprint
+1. Laser
+1. Fabrics
+---
+1. 101
+1. Github
+---
+1. CAD
+1. Electronics
+1. Informatics
+
