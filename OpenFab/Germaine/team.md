@@ -110,7 +110,7 @@ Pour la cnc, on en a pas. C'est retiré du site. Zip it, c'est pas pour les noob
 - [ ] Optimiser le flow
 
 #### Lien
-Vers la team Job
+[Vers la team Job](https://github.com/orgs/openfab-lab/teams/team-job)
 </details>
 
 <details>
